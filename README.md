@@ -4,3 +4,5 @@ Aqui você apreciará as delícias dos melhores doces por meio de fotos, vídeos
 
 ![Brigadeiro](https://cdn.panelinha.com.br/receita/958014000000-Brigadeiro.jpg)
 
+<img src="beijinho.jpg" alt="Beijinhos deliciosos" title="Beijinho" />
+
